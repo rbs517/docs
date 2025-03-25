@@ -17,13 +17,13 @@
             "group": "Onboarding",
             "pages": [
               "onboarding/intro",
-              "onboarding/test"            
-            ]
-          },
-          {
-            "group": "Solutions",
-            "pages": [
-              "solutions/solution-a"           
+              "onboarding/test",
+              {
+              "group": "Webstore",
+              "pages": [
+                "solutions/webstore/test"           
+              ]
+              }
             ]
           }
         ]
