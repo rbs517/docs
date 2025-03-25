@@ -11,6 +11,17 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Onboarding",
+        "groups": [
+          {
+            "group": "onboarding",
+            "pages": [
+              "intro",
+              "test"            ]
+          },
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
