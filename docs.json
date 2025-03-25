@@ -19,6 +19,12 @@
               "onboarding/intro",
               "onboarding/test"            
             ]
+          },
+          {
+            "group": "Solutions",
+            "pages": [
+              "solutions/solution-a"           
+            ]
           }
         ]
       },
