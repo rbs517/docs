@@ -9,9 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": ["landing-page"],
     "tabs": [
       {
+        "pages": ["landing-page"],
         "tab": "Onboarding",
         "groups": [
           {
