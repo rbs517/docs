@@ -16,8 +16,8 @@
           {
             "group": "onboarding",
             "pages": [
-              "intro",
-              "test"            
+              "onboarding/intro",
+              "onboarding/test"            
             ]
           },
         ]
