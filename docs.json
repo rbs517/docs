@@ -14,12 +14,12 @@
         "tab": "Onboarding",
         "groups": [
           {
-            "group": "onboarding",
+            "group": "Onboarding",
             "pages": [
               "onboarding/intro",
               "onboarding/test"            
             ]
-          },
+          }
         ]
       },
       {
